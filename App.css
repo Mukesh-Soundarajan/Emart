@@ -1,0 +1,9 @@
+/*Navbar*/
+.navbar-nav a{
+  font-size: 18px;
+}
+.btn-close{
+  position: absolute;
+  top: 120px;
+  right: -50px;
+}
